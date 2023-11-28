@@ -1,0 +1,3 @@
+common, nsd_n_sanity_beach, 0x0, 0x0, src/S0000009.NSD
+common, nsf_n_sanity_beach, 0x0, 0x0, src/S0000009.NSF
+common, iso, 0x8000C000, 0x0, src/bait.c
